@@ -1,5 +1,4 @@
-![My GIF](files/anime-typing.gif)
-## Hi World 👋
+## Hi World 👋![My GIF](files/anime-typing.gif)
 
 <!-- [![Website](https://img.shields.io/badge/Website-Visit-green?style=flat-square&logo=google-chrome&logoColor=white)](https://sites.google.com/view/fardinsaad/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fardinsaad003/)
