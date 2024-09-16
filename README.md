@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=google-chrome)](https://sites.google.com/view/fardinsaad/)
+[![Website](https://img.shields.io/badge/Website-Visit-purple?style=flat&logo=google-chrome)](https://sites.google.com/view/fardinsaad/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fardinsaad003/)
 
 <!--
