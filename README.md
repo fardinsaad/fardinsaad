@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fardinsaad003/)
 -->
 [![Website](https://img.shields.io/badge/-Website-purple?style=flat-square&logo=google-chrome&logoColor=blue)](https://sites.google.com/view/fardinsaad/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-lightblue?style=flat-square&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/fardinsaad003/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/fardinsaad003/)
 
 <!--
 **fardinsaad/fardinsaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
