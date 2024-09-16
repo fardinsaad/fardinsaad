@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hi World 👋
 
 <!-- [![Website](https://img.shields.io/badge/Website-Visit-green?style=flat-square&logo=google-chrome&logoColor=white)](https://sites.google.com/view/fardinsaad/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fardinsaad003/)
 -->
+![Profile Views](https://komarev.com/ghpvc/?username=fardinsaad&color=green)
 [![Website](https://img.shields.io/badge/-Website-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://sites.google.com/view/fardinsaad/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fardinsaad003/)
 
