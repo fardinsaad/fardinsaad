@@ -1,5 +1,21 @@
-## Hi World <img src="files/gihbli.gif" alt="GIF" width="50" height="auto">
 ![My GIF](files/anime-typing.gif)
+<div style="font-size:20px; font-weight:bold; color:blue; animation: slide 3s ease-in-out;">
+  Sliding Text Example
+</div>
+
+<style>
+@keyframes slide {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0%);
+  }
+}
+</style>
+
+## Hi World <img src="files/gihbli.gif" alt="GIF" width="50" height="auto">
+
 
 <!-- [![Website](https://img.shields.io/badge/Website-Visit-green?style=flat-square&logo=google-chrome&logoColor=white)](https://sites.google.com/view/fardinsaad/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fardinsaad003/)
