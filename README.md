@@ -27,6 +27,18 @@
 - I have a passion for **coding** and was an active **competitive programmer** during my undergraduate days.
 - I’m currently looking for exciting **research internship opportunities in AI/ML for Summer 2025**.
 
+## Languages Used in My Repositories
+
+[![C](https://img.shields.io/badge/Language-C-blue.svg)](https://github.com/fardinsaad)
+[![C++](https://img.shields.io/badge/Language-C++-lightblue.svg)](https://github.com/fardinsaad)
+[![Python](https://img.shields.io/badge/Language-Python-green.svg)](https://github.com/fardinsaad)
+[![Java](https://img.shields.io/badge/Language-Java-orange.svg)](https://github.com/fardinsaad)
+[![MATLAB](https://img.shields.io/badge/Language-MATLAB-yellow.svg)](https://github.com/fardinsaad)
+
+## Dynamic Languages Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinsaad&layout=compact&hide=html)
+
 #
 
 <div align="center">
