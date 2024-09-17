@@ -1,6 +1,11 @@
-![My GIF](files/anime-typing.gif)
+<div align="center">
+  <img src="files/anime-typing.gif" alt="My GIF">
+</div>
 
-# Hi World! <img src="files/gihbli.gif" alt="GIF" width="50" height="auto">
+<div align="center">
+  <h1>Hi World!</h1>
+  <img src="files/gihbli.gif" alt="GIF" width="50" height="auto">
+</div>
 ![Profile Views](https://komarev.com/ghpvc/?username=fardinsaad&color=green)
 [![Website](https://img.shields.io/badge/-Website-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://sites.google.com/view/fardinsaad/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fardinsaad003/)
