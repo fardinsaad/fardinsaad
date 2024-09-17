@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="files/anime-typing.gif" alt="My GIF">
+  <img src="files/anime-typing.gif" alt="My GIF" width="300" height="auto">
 </div>
 
 <div align="center">
