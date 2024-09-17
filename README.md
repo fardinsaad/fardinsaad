@@ -1,4 +1,5 @@
 ![GIF](files/project.gif)
+<img src="files/project.gif" alt="GIF" width="400" height="300">
 ## Hi World 👋
 ![My GIF](files/anime-typing.gif)
 
