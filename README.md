@@ -11,6 +11,11 @@
 <!-- [![Website](https://img.shields.io/badge/Website-Visit-green?style=flat-square&logo=google-chrome&logoColor=white)](https://sites.google.com/view/fardinsaad/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fardinsaad003/)
 -->
+## About Me
+- I'm a **2nd-year Computer Science Ph.D. student** at North Carolina State University.
+- My research areas include **Multiagent Systems**, **Natural Language Processing (NLP)**, and **Computational Linguistics**.
+- I have a passion for **coding** and was an active **competitive programmer** during my undergraduate days.
+- I’m currently looking for exciting **research internship opportunities in AI/ML for Summer 2025**.
 
 
 
