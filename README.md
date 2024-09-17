@@ -2,9 +2,10 @@
   <img src="files/anime-typing.gif" alt="My GIF" width="1000" height="auto">
 </div>
 
-<div align="center">
+<!--<div align="center">
   <h1>Hi World! <img src="files/gihbli.gif" alt="GIF" width="50" height="auto"></h1>
 </div>
+-->
 
 <div align="center">
   <img src="files/header.gif" alt="My GIF" width="auto" height="auto">
