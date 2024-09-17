@@ -28,7 +28,7 @@
 - I’m currently looking for exciting **research internship opportunities in AI/ML for Summer 2025**.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinsaad&layout=compact&hide=html&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinsaad&layout=compact&hide=html&theme=radical)
 
 
 #
