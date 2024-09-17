@@ -27,7 +27,7 @@
 - I have a passion for **coding** and was an active **competitive programmer** during my undergraduate days.
 - I’m currently looking for exciting **research internship opportunities in AI/ML for Summer 2025**.
 
-#
+## Thank you for visiting my profile :relaxed:
 <div align="center">
   <img src="files/anime-dance.gif" alt="My GIF" width="auto" height="auto">
 </div>
