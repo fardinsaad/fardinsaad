@@ -30,7 +30,7 @@
 
 
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinsaad&layout=compact&hide=html&theme=merko)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinsaad&layout=compact&hide=html&theme=merko" alt="Top Languages">
 </div>
 
 
