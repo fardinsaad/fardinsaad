@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Hi World! <img src="files/gihbli.gif" alt="GIF" width="auto" height="auto"></h1>
+  <h1>Hi World! <img src="files/gihbli.gif" alt="GIF" width="50" height="auto"></h1>
 </div>
 
 ##
