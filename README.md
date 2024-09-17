@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="files/Hi World.gif" alt="My GIF" width="auto" height="auto">
+  <img src="files/header.gif" alt="My GIF" width="auto" height="auto">
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fardinsaad&color=green)
