@@ -1,6 +1,4 @@
-![GIF](files/project.gif)
-<img src="files/project.gif" alt="GIF" width="400" height="300">
-## Hi World 👋
+## Hi World <img src="files/gihbli.gif" alt="GIF" width="50" height="auto">
 ![My GIF](files/anime-typing.gif)
 
 <!-- [![Website](https://img.shields.io/badge/Website-Visit-green?style=flat-square&logo=google-chrome&logoColor=white)](https://sites.google.com/view/fardinsaad/)
