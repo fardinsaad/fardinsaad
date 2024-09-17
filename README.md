@@ -30,7 +30,7 @@
 #
 
 <div align="center">
-  <h1>Thank you for visiting 😊</h1>
+  <p style="font-size: 40px;">Thank you for visiting 😊</p>
   <img src="files/anime-dance.gif" alt="My GIF" width="auto" height="auto">
 </div>
 <!--
