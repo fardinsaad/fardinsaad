@@ -1,3 +1,4 @@
+![GIF](files/project.gif)
 ## Hi World 👋
 ![My GIF](files/anime-typing.gif)
 
