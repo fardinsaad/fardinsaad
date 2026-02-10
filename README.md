@@ -11,6 +11,7 @@
   <img src="files/I am Fardin!.gif" alt="My GIF" width="auto" height="auto">
 </div>
 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=fardinsaad&color=green)
 [![Website](https://img.shields.io/badge/-Website-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://sites.google.com/view/fardinsaad/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fardinsaad003/)
@@ -29,13 +30,13 @@
 - I'm currently looking for exciting **research internship opportunities in AI/ML in the upcoming Summer**.
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinsaad&layout=compact&hide=html&theme=merko" alt="Top Languages">
+</div> -->
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fardinsaad&layout=compact&hide=html&theme=merko" alt="Top Languages">
 </div>
 
-
-
-#
 
 <div align="center">
   <h3> Thank you for visiting 😊</h3>
